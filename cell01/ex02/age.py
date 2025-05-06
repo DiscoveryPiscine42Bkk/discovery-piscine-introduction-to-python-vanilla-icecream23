@@ -1,4 +1,4 @@
-x = 21
+my_age = 21
 y = 42
-z = x + y
-print (z)
+my_age = my_age + y
+print (my_age)
